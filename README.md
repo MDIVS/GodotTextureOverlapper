@@ -12,6 +12,9 @@ var merged_texture = TextureOverlapper.overlap(texture1, texture2)
 
 Fell free to use and modify this code as you want as well as submit your suggestions of new implementations as pull requests here.
 
+# Screenshot
+![Screenshot](./screenshot.png)
+
 # Why overlap textures?
 There are lots of use cases where you can't just draw two Sprite2D or TextureRect nodes one over another.
 
