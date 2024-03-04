@@ -1,5 +1,5 @@
 # Godot Texture Overlapper
-Contains a [TextureOverlapper](./texture_overlapper.gd) class and a example of use made with [Godot Engine v4.2.1 - stable](https://godotengine.org/download/archive/4.2.1-stable/)
+Contains a [TextureOverlapper](./texture_overlapper.gd) class and a example of use made with [Godot Engine v4.2.1 - stable](https://godotengine.org/download/archive/4.2.1-stable/).
 
 [TextureOverlapper](./texture_overlapper.gd) class can be imported in any godot project and is ready to use.
 
