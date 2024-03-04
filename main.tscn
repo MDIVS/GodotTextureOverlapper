@@ -104,6 +104,7 @@ offset_right = 64.0
 offset_bottom = 16.0
 grow_horizontal = 2
 grow_vertical = 2
+mouse_default_cursor_shape = 2
 text = "MERGE"
 
 [connection signal="pressed" from="MergeButton" to="." method="_on_merge_button_pressed"]
